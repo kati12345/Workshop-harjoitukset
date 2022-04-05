@@ -1,0 +1,2 @@
+# Workshop-harjoitukset
+Verkkosovelluskehitys kurssi
